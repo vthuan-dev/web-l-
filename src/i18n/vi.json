@@ -1,0 +1,147 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "contact": "Liên hệ",
+    "about": "Về chúng tôi"
+  },
+  "hero": {
+    "searchProducts": "Tìm kiếm sản phẩm",
+    "contactUs": "Liên hệ với chúng tôi",
+    "companyName": "Wizus Food",
+    "description": "Chuyên cung cấp các mặt hàng cá tra, cá nước ngọt, chả cá đông lạnh các loại và nông sản"
+  },
+  "products": {
+    "categories": "Danh mục sản phẩm"
+  },
+  "contact": {
+    "info": "Thông tin liên hệ",
+    "socialMedia": "Mạng xã hội",
+    "hotline": "Hotline: +84 987055245",
+    "contactLabel": "Liên hệ:"
+  },
+  "footer": {
+    "links": "LIÊN KẾT",
+    "contact": "LIÊN HỆ",
+    "map": "BẢN ĐỒ",
+    "socialMedia": "MẠNG XÃ HỘI",
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "contactLink": "Liên hệ",
+    "about": "Về chúng tôi",
+    "socialLinks": {
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "tiktok": "Tiktok"
+    },
+    "copyright": "Copyright 2025 ..."
+  },
+  "breadcrumb": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "categories": "Danh mục sản phẩm",
+    "search": "Tìm kiếm"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "introduction": {
+      "title": "Giới thiệu về Wizus Food",
+      "paragraph1": "Wizus Food là công ty chuyên cung cấp các mặt hàng cá tra, cá nước ngọt, chả cá đông lạnh các loại và nông sản chất lượng cao. Với nhiều năm kinh nghiệm trong ngành thực phẩm thủy sản, chúng tôi cam kết mang đến cho khách hàng những sản phẩm tươi ngon, an toàn và giàu dinh dưỡng.",
+      "paragraph2": "Công ty chúng tôi hoạt động với sứ mệnh cung cấp thực phẩm chất lượng cao, đáp ứng nhu cầu đa dạng của thị trường trong nước và quốc tế. Chúng tôi tự hào là đối tác tin cậy của nhiều nhà phân phối và chuỗi bán lẻ lớn."
+    },
+    "vision": {
+      "title": "Tầm nhìn",
+      "content": "Trở thành nhà cung cấp hàng đầu trong lĩnh vực thực phẩm thủy sản và nông sản, được khách hàng tin tưởng và lựa chọn bởi chất lượng sản phẩm và dịch vụ xuất sắc."
+    },
+    "mission": {
+      "title": "Sứ mệnh",
+      "content": "Cung cấp những sản phẩm thực phẩm chất lượng cao, an toàn và bổ dưỡng, đồng thời xây dựng mối quan hệ bền vững với khách hàng và đối tác."
+    },
+    "ourProducts": {
+      "title": "Sản phẩm của chúng tôi",
+      "freshwaterFish": {
+        "title": "Cá nước ngọt",
+        "description": "Cá rô, cá rô phi, cá điêu hồng và các loại cá nước ngọt khác"
+      },
+      "catfish": {
+        "title": "Cá tra",
+        "description": "Cá tra phi lê đông lạnh chất lượng cao"
+      },
+      "fishCake": {
+        "title": "Chả cá",
+        "description": "Chả cá đông lạnh các loại"
+      },
+      "agricultural": {
+        "title": "Nông sản",
+        "description": "Các sản phẩm nông sản chất lượng"
+      }
+    },
+    "qualityCommitment": {
+      "title": "Cam kết chất lượng",
+      "highQuality": {
+        "title": "Chất lượng cao",
+        "description": "Tất cả sản phẩm đều được kiểm tra chất lượng nghiêm ngặt"
+      },
+      "coldStorage": {
+        "title": "Bảo quản lạnh",
+        "description": "Hệ thống bảo quản lạnh hiện đại đảm bảo độ tươi ngon"
+      },
+      "fastDelivery": {
+        "title": "Giao hàng nhanh",
+        "description": "Dịch vụ giao hàng nhanh chóng và đáng tin cậy"
+      }
+    },
+    "contactCta": {
+      "title": "Liên hệ với chúng tôi",
+      "description": "Hãy liên hệ với Wizus Food để được tư vấn và đặt hàng những sản phẩm chất lượng nhất"
+    }
+  },
+  "contactPage": {
+    "title": "Liên hệ",
+    "description": "Liên hệ với chúng tôi để được tư vấn và đặt hàng sản phẩm",
+    "companyInfo": {
+      "title": "Thông tin công ty",
+      "address": "Địa chỉ:",
+      "phone": "Điện thoại:",
+      "email": "Email:",
+      "website": "Website:",
+      "businessHours": "Giờ làm việc:"
+    },
+    "businessHours": {
+      "weekdays": "Thứ 2 - Thứ 6: 8:00 - 17:00",
+      "weekend": "Thứ 7: 9:00 - 12:00"
+    },
+    "mapTitle": "Vị trí của chúng tôi"
+  },
+  "productsPage": {
+    "subcategories": "Danh mục con"
+  },
+  "categoryPage": {
+    "metaDescription": "Sản phẩm trong danh mục",
+    "noProducts": "Không có sản phẩm nào trong danh mục này"
+  },
+  "productDetail": {
+    "contactToOrder": "Liên hệ để đặt hàng",
+    "contactDescription": "Hãy liên hệ với chúng tôi để biết thêm thông tin chi tiết về sản phẩm và đặt hàng."
+  },
+  "search": {
+    "title": "Tìm kiếm sản phẩm",
+    "description": "Tìm kiếm và lọc sản phẩm theo danh mục",
+    "searchLabel": "Tìm kiếm sản phẩm",
+    "searchPlaceholder": "Nhập tên sản phẩm...",
+    "categoryFilter": "Danh mục",
+    "subcategoryFilter": "Danh mục con",
+    "allCategories": "Tất cả danh mục",
+    "allSubcategories": "Tất cả danh mục con",
+    "searchButton": "Tìm kiếm",
+    "clearFilters": "Xóa bộ lọc",
+    "activeFilters": "Bộ lọc đang áp dụng",
+    "searchTerm": "Từ khóa",
+    "category": "Danh mục",
+    "subcategory": "Danh mục con",
+    "results": "Kết quả tìm kiếm",
+    "noResults": "Không tìm thấy sản phẩm nào",
+    "noResultsDescription": "Thử thay đổi từ khóa tìm kiếm hoặc bộ lọc để xem thêm sản phẩm",
+    "viewAllProducts": "Xem tất cả sản phẩm"
+  }
+}

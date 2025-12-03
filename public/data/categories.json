@@ -1,0 +1,47 @@
+[
+    {
+        "id": "000000-000000-00000-00000-000000000000",
+        "name": {
+            "vi": "Cá nước ngọt",
+            "en": "Freshwater Fish"
+        },
+        "slug": "ca-nuoc-ngot",
+        "image": "/images/categories/ca_nuoc_ngot.jpg"
+    },
+    {
+        "id": "000000-000000-00000-00000-000000000001",
+        "name": {
+            "vi": "Cá tra",
+            "en": "Pangasius"
+        },
+        "slug": "ca-tra",
+        "image": "/images/categories/ca-tra.jpg"
+    },
+    {
+        "id": "000000-000000-00000-00000-000000000002",
+        "name": {
+            "vi": "Chả cá",
+            "en": "Fish Paste"
+        },
+        "slug": "cha-ca",
+        "image": "/images/categories/cha_ca.jpg"
+    },
+    {
+        "id": "000000-000000-00000-00000-000000000003",
+        "name": {
+            "vi": "Phụ phẩm",
+            "en": "By-Products"
+        },
+        "slug": "phu-pham",
+        "image": "/images/categories/phu_pham.png"
+    },
+    {
+        "id": "000000-000000-00000-00000-000000000004",
+        "name": {
+            "vi": "Nông sản",
+            "en": "Agricultural Products"
+        },
+        "slug": "nong-san",
+        "image": "/images/categories/nong_san.png"
+    }
+]

@@ -1,0 +1,73 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Build output
+build/
+/dist
+
+# Environment
+.env
+.env.*
+
+# Backup and local generated files
+src/_backup_js/
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# MacOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# npm cache
+.npm
+
+# Parcel cache
+.cache/
+
+# Optional coverage
+coverage/
+
+# Misc
+*.pem
+
+# Lockfiles from other package managers that may be generated
+pnpm-lock.yaml
+
+# Static sites / temporary
+public/build/
+
+# OS files
+Thumbs.db
+
+# JetBrains
+*.iml
+
+# Local dotenv
+.env.local
+
+# Local node binary
+node_modules/
+
+# Ignore local dev database files
+*.sqlite
+
+# Ignore compiled typescript build
+dist/
+
+# Ignore npm global config
+.npmrc
+
+# Other files/folders to ignore
+.local/

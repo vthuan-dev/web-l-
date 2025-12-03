@@ -1,0 +1,162 @@
+[
+    {
+        "id": "000000-000000-00000-00001-000000000001",
+        "name": {
+            "vi": "Cá rô phi",
+            "en": "Tilapia"
+        },
+        "slug": "ca-ro-phi",
+        "image": "/images/categories/ca_ro_phi.png",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000002",
+        "name": {
+            "vi": "Cá rô",
+            "en": "Climbing perch"
+        },
+        "slug": "ca-ro",
+        "image": "/images/categories/ca_ro.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000003",
+        "name": {
+            "vi": "Cá điêu hồng",
+            "en": "Red tilapia all kind"
+        },
+        "slug": "ca-dieu-hong",
+        "image": "/images/categories/ca_dieu_hong.png",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000004",
+        "name": {
+            "vi": "Ếch",
+            "en": "Frog"
+        },
+        "slug": "ech",
+        "image": "/images/categories/ech.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000005",
+        "name": {
+            "vi": "Tép",
+            "en": "Baby Shrimp"
+        },
+        "slug": "tep",
+        "image": "/images/categories/tep.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000006",
+        "name": {
+            "vi": "Cá Kèo",
+            "en": "Globy fish"
+        },
+        "slug": "ca-keo",
+        "image": "/images/categories/ca_keo.png",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000007",
+        "name": {
+            "vi": "Hến",
+            "en": "Clam"
+        },
+        "slug": "hen",
+        "image": "/images/categories/hen.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000008",
+        "name": {
+            "vi": "Lươn",
+            "en": "Eel"
+        },
+        "slug": "luon",
+        "image": "/images/categories/luon.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000009",
+        "name": {
+            "vi": "Cá trôi",
+            "en": "Rohu fish"
+        },
+        "slug": "ca-troi",
+        "image": "/images/categories/ca_troi.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000010",
+        "name": {
+            "vi": "Cá chim",
+            "en": "Pomfret fish"
+        },
+        "slug": "ca-chim",
+        "image": "/images/categories/ca_chim.webp",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000011",
+        "name": {
+            "vi": "Cá lóc",
+            "en": "Snakehead Fish"
+        },
+        "slug": "ca-loc",
+        "image": "/images/categories/ca_loc.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000012",
+        "name": {
+            "vi": "Cá trê",
+            "en": "Catfish"
+        },
+        "slug": "ca-tre",
+        "image": "/images/categories/ca_tre.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000013",
+        "name": {
+            "vi": "Cá thát lát",
+            "en": "Featherback Fish"
+        },
+        "slug": "ca-that-lat",
+        "image": "/images/categories/ca_that_lat.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000014",
+        "name": {
+            "vi": "Cá mè hoa",
+            "en": "Bighead carp"
+        },
+        "slug": "ca-me-hoa",
+        "image": "/images/categories/ca_me_hoa.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000015",
+        "name": {
+            "vi": "Ốc",
+            "en": "Snail"
+        },
+        "slug": "oc",
+        "image": "/images/categories/oc.png",
+        "categoryId": "000000-000000-00000-00000-000000000000"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000016",
+        "name": {
+            "vi": "Cá Tra",
+            "en": "Pangasius"
+        },
+        "slug": "phan-ca-tra",
+        "image": "/images/categories/ca-tra.jpg",
+        "categoryId": "000000-000000-00000-00000-000000000001"
+    }
+]

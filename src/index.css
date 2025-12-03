@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles if needed */
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+}

@@ -1,0 +1,60 @@
+{
+  "company": {
+    "name": "Wizus Food",
+    "address": "112/12, 112 Trần Phú, phường Cái Khế, thành phố Cần Thơ, Việt Nam",
+    "phone": "+84 987055245",
+    "phone2": "+81 9091937887",
+    "phone3": "+84 909 416396",
+    "phoneContacts": [
+      {
+        "phone": "+84 987055245",
+        "name": "Ms Nina"
+      },
+      {
+        "phone": "+81 9091937887",
+        "name": "Mr Katoh"
+      },
+      {
+        "phone": "+84 909 416396",
+        "name": "Ms San San"
+      }
+    ],
+    "email": "exportseafood1986@gmail.com",
+    "website": "www.wizusfood.com"
+  },
+  "locations": [
+    {
+      "name": "Văn phòng",
+      "address": "112/12, 112 Trần Phú, phường Cái Khế, thành phố Cần Thơ",
+      "lat": 10.0452,
+      "lng": 105.7469,
+      "city": "Cần Thơ",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Việt Nam",
+      "address": "ấp Phú Nghĩa, xã Phú Hữu, thành phố Cần Thơ, Việt Nam",
+      "lat": 10.0452,
+      "lng": 105.7469,
+      "city": "Cần Thơ",
+      "country": "Vietnam"
+    },
+    {
+      "name": "Philippines",
+      "address": "Purok 10 Sanfrancisco street, Mintal, Davao city, Philippines, 8022",
+      "lat": 7.1907,
+      "lng": 125.4553,
+      "city": "Davao City",
+      "country": "Philippines"
+    }
+  ],
+  "socialMedia": {
+    "facebook": "https://facebook.com/wizusfood",
+    "youtube": "https://youtube.com/wizusfood",
+    "tiktok": "https://tiktok.com/@wizusfood"
+  },
+  "businessHours": {
+    "weekdays": "Thứ 2 - Thứ 6: 8:00 - 17:00",
+    "weekend": "Thứ 7: 9:00 - 12:00"
+  }
+}

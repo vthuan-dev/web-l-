@@ -1,0 +1,22 @@
+{
+  "companyInfo": {
+    "name": "Wizus Food",
+    "phones": ["+84 987055245", "+81 9091937887", "+84 909 416396"],
+    "email": "exportseafood1986@gmail.com",
+    "addresses": {
+      "vietnam": "ấp Phú Nghĩa, xã Phú Hữu, thành phố Cần Thơ, Việt Nam",
+      "philippines": "Purok 10 Sanfrancisco street, Mintal, Davao city, Philippines, 8022",
+      "office": "112/12, 112 Trần Phú, phường Cái Khế, thành phố Cần Thơ."
+    },
+    "coordinates": {
+      "vietnam": [10.0452, 105.7469],
+      "philippines": [7.2906, 125.6140],
+      "office": [10.0304, 105.7717]
+    }
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/wizusfood",
+    "youtube": "https://youtube.com/wizusfood",
+    "tiktok": "https://tiktok.com/@wizusfood"
+  }
+}

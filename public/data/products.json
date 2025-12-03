@@ -1,0 +1,472 @@
+[
+    {
+        "id": "000000-000000-00001-00000-000000000032",
+        "name": {
+            "vi": "Cá rô phi nguyên con đông lạnh",
+            "en": "GGS Tilapia"
+        },
+        "slug": "ca-ro-phi-nguyen-con-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000001",
+        "images": [
+            "/images/categories/ca_ro_phi_nguyen_con_dong_lanh.png",
+            "/images/categories/ca_ro_phi_nguyen_con_dong_lanh2.png",
+            "/images/categories/ca_ro_phi_nguyen_con_dong_lanh3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000033",
+        "name": {
+            "vi": "Cá rô phi phi lê",
+            "en": "Tilapia fillet"
+        },
+        "slug": "ca-ro-phi-phi-le",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000001",
+        "images": [
+            "/images/categories/ca_ro_phi_phi_le.png",
+            "/images/categories/ca_ro_phi_phi_le2.png",
+            "/images/categories/ca_ro_phi_phi_le3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000034",
+        "name": {
+            "vi": "Cá rô làm sạch",
+            "en": "GGS climbing perch"
+        },
+        "slug": "ca-ro-lam-sach",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000002",
+        "images": [
+            "/images/categories/ca_ro_lam_sach.png",
+            "/images/categories/ca_ro_lam_sach2.png",
+            "/images/categories/ca_ro_lam_sach3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000035",
+        "name": {
+            "vi": "Thịt Hến đông lạnh",
+            "en": "Frozen fresh water clam"
+        },
+        "slug": "thit-hen-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000007",
+        "images": [
+            "/images/categories/hen_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000036",
+        "name": {
+            "vi": "Lươn đông lạnh",
+            "en": "Frozen eel"
+        },
+        "slug": "luon-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000008",
+        "images": [
+            "/images/categories/luon_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000037",
+        "name": {
+            "vi": "Cá trôi đông lạnh",
+            "en": "Frozen rohu fish"
+        },
+        "slug": "ca-troi-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000009",
+        "images": [
+            "/images/categories/ca_troi_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000038",
+        "name": {
+            "vi": "Cá chim đông lạnh",
+            "en": "Frozen pomfret fish"
+        },
+        "slug": "ca-chim-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000010",
+        "images": [
+            "/images/categories/ca_chim_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000040",
+        "name": {
+            "vi": "Cá lóc đông lạnh",
+            "en": "Frozen snakehead fish"
+        },
+        "slug": "ca-loc-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000011",
+        "images": [
+            "/images/categories/ca_loc_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000041",
+        "name": {
+            "vi": "Cá trê đông lạnh",
+            "en": "Frozen pangasius"
+        },
+        "slug": "ca-tre-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000012",
+        "images": [
+            "/images/categories/ca_tre_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000009",
+        "name": {
+            "vi": "Cá tra phi lê nga còn thịt đỏ",
+            "en": "Pangasius untrimmed fillets"
+        },
+        "slug": "ca-tra-phi-le-nga-con-thit-do",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/ca_tra_phi_le_con_thit_do.png",
+            "/images/categories/ca_tra_phi_le_con_thit_do2.png",
+            "/images/categories/ca_tra_phi_le_con_thit_do3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000009-5",
+        "name": {
+            "vi": "Da cá tra",
+            "en": "Pangasius skin"
+        },
+        "slug": "da-ca-tra",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/da_ca_tra_dong_lanh.png",
+            "/images/categories/da_ca_tra_dong_lanh2.png",
+            "/images/categories/da_ca_tra_dong_lanh3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000009-6",
+        "name": {
+            "vi": "Bao tử cá tra",
+            "en": "Pangasius fish maw"
+        },
+        "slug": "bao-tu-ca-tra",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/bao_tu_ca_tra.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000010",
+        "name": {
+            "vi": "Cá tra phi lê",
+            "en": "Pangasius fillets"
+        },
+        "slug": "ca-tra-phi-le",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/ca_basa_phi_le.png",
+            "/images/categories/ca_basa_nguyen_con_dong_lanh.png",
+            "/images/categories/ca_basa_cat_khuc.png",
+            "/images/categories/ca_basa.png",
+            "/images/categories/ca_basa_phi_le2.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000011",
+        "name": {
+            "vi": "Cá tra nguyên con đông lạnh",
+            "en": "Frozen pangasius fish"
+        },
+        "slug": "ca-tra-nguyen-con-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/ca_basa_nguyen_con_dong_lanh.png",
+            "/images/categories/ca_basa_nguyen_con_dong_lanh2.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000012",
+        "name": {
+            "vi": "Cá tra cắt khúc",
+            "en": "Pangasius steak"
+        },
+        "slug": "ca-tra-cat-khuc",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/ca_basa_cat_khuc.png",
+            "/images/categories/ca_basa_cat_khuc2.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000031",
+        "name": {
+            "vi": "Cá chép nguyên con",
+            "en": "Whole Carp"
+        },
+        "slug": "ca-chep-nguyen-con",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "images": [
+            "/images/categories/ca_ro.jpg"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000025",
+        "name": {
+            "vi": "Chả cá thát lát",
+            "en": "Featherback fishpaste"
+        },
+        "slug": "cha-ca-that-lat",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "subCategoryId": "000000-000000-00000-00001-000000000013",
+        "images": [
+            "/images/categories/cha_ca_that_lat.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000026",
+        "name": {
+            "vi": "Cá thát lát rút xương tẩm gia vị",
+            "en": "Seasoning featherback fishpaste"
+        },
+        "slug": "ca-that-lat-rut-xuong-tam-gia-vi",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "subCategoryId": "000000-000000-00000-00001-000000000013",
+        "images": [
+            "/images/categories/ca_that_lat_rut_xuong_tam_vi.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000027",
+        "name": {
+            "vi": "Chả cá tra",
+            "en": "Pangasius fishpaste"
+        },
+        "slug": "cha-ca-tra",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "images": [
+            "/images/categories/cha_ca_basa.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000024",
+        "name": {
+            "vi": "Chả phối màu",
+            "en": "Color fishpaste"
+        },
+        "slug": "cha-phoi-mau",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "images": [
+            "/images/categories/cha_ca_phoi_mau.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000025-1",
+        "name": {
+            "vi": "Chả cá tra phối thát lát",
+            "en": "Featherback and pangasius fishpaste"
+        },
+        "slug": "cha-ca-tra-phoi-that-lat",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "images": [
+            "/images/categories/cha_basa_phoi_that_lat.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000026-1",
+        "name": {
+            "vi": "Chả đã chiên phồng",
+            "en": "Fried fishpaste"
+        },
+        "slug": "cha-da-chien-phong",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "images": [
+            "/images/categories/cha_da_chien_phong.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000027-1",
+        "name": {
+            "vi": "Chả cá rô phi nên gia vị",
+            "en": "Seasoning tilapia fishpaste"
+        },
+        "slug": "cha-ca-ro-phi-nen-gia-vi",
+        "categoryId": "000000-000000-00000-00000-000000000002",
+        "images": [
+            "/images/categories/cha_ca_ro_phi_nem_gia_vi.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000026-2",
+        "name": {
+            "vi": "Sả",
+            "en": "Frozen lemongrass"
+        },
+        "slug": "sa",
+        "categoryId": "000000-000000-00000-00000-000000000004",
+        "images": [
+            "/images/categories/nong_san.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000027-2",
+        "name": {
+            "vi": "Lá chuối",
+            "en": "Banana leaf"
+        },
+        "slug": "la-chuoi",
+        "categoryId": "000000-000000-00000-00000-000000000004",
+        "images": [
+            "/images/categories/la_chuoi.jpg"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000013",
+        "name": {
+            "vi": "Da cá tra đông lạnh",
+            "en": "Frozen Pangasius Skin"
+        },
+        "slug": "da-ca-tra-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000003",
+        "images": [
+            "/images/categories/da_ca_tra_dong_lanh.png",
+            "/images/categories/da_ca_tra_dong_lanh2.png",
+            "/images/categories/da_ca_tra_dong_lanh3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000014",
+        "name": {
+            "vi": "Bao tử cá tra",
+            "en": "Pangasius Fish Maw"
+        },
+        "slug": "bao-tu-ca-tra",
+        "categoryId": "000000-000000-00000-00000-000000000003",
+        "images": [
+            "/images/categories/bao_tu_ca_tra.png",
+            "/images/categories/bao_tu_ca_tra2.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000024-1",
+        "name": {
+            "vi": "Vảy cá phơi khô",
+            "en": "Dry fish scale"
+        },
+        "slug": "vay-ca-phoi-kho",
+        "categoryId": "000000-000000-00000-00000-000000000003",
+        "images": [
+            "/images/categories/vay_ca_phoi_kho.jpg"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000042",
+        "name": {
+            "vi": "Cá mè hoa nguyên con đông lạnh",
+            "en": "Bighead carp"
+        },
+        "slug": "ca-me-hoa-nguyen-con-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000014",
+        "images": [
+            "/images/categories/ca_me_hoa_nguyen_con_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000043",
+        "name": {
+            "vi": "Cá mè hoa phi lê",
+            "en": "Bighead carp fillet"
+        },
+        "slug": "ca-me-hoa-phi-le",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000014",
+        "images": [
+            "/images/categories/ca_me_hoa_phi_le.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000044",
+        "name": {
+            "vi": "Thịt ốc đông lạnh",
+            "en": "Frozen snail"
+        },
+        "slug": "thit-oc-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000015",
+        "images": [
+            "/images/categories/thit_oc_dong_lanh.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000045",
+        "name": {
+            "vi": "Cá điêu hồng nguyên con",
+            "en": "Red tilapia all kind"
+        },
+        "slug": "ca-dieu-hong-nguyen-con",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000003",
+        "images": [
+            "/images/categories/ca_dieu_hong_nguyen_con.png",
+            "/images/categories/ca_dieu_hong2.png",
+            "/images/categories/ca_dieu_hong3.png"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000046",
+        "name": {
+            "vi": "Thịt Ếch đông lạnh",
+            "en": "Frog (whole round and leg)"
+        },
+        "slug": "thit-ech-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000004",
+        "images": [
+            "/images/categories/thit_ech_dong_lanh.png",
+            "/images/categories/ech.jpg",
+            "/images/categories/ech2.jpg"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000047",
+        "name": {
+            "vi": "Tép đông lạnh",
+            "en": "Baby shrimp"
+        },
+        "slug": "tep-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000005",
+        "images": [
+            "/images/categories/tep_dong_lanh.png",
+            "/images/categories/tep.jpg",
+            "/images/categories/tep2.jpg"
+        ]
+    },
+    {
+        "id": "000000-000000-00001-00000-000000000048",
+        "name": {
+            "vi": "Cá Kèo đông lạnh",
+            "en": "Globy fish"
+        },
+        "slug": "ca-keo-dong-lanh",
+        "categoryId": "000000-000000-00000-00000-000000000000",
+        "subCategoryId": "000000-000000-00000-00001-000000000006",
+        "images": [
+            "/images/categories/ca_keo_dong_lanh.png"
+        ]
+    }
+]

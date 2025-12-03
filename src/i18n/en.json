@@ -1,0 +1,201 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact",
+    "about": "About Us"
+  },
+  "hero": {
+    "searchProducts": "Search Products",
+    "contactUs": "Contact Us",
+    "companyName": "Wizus Food",
+    "description": "Specializing in providing pangasius, freshwater fish, frozen Fish Pastes of all kinds and agricultural products"
+  },
+  "products": {
+    "categories": "Product Categories"
+  },
+  "contact": {
+    "info": "Contact Information",
+    "socialMedia": "Social Media",
+    "hotline": "Hotline: +84 987055245",
+    "contactLabel": "Contact:"
+  },
+  "footer": {
+    "links": "LINKS",
+    "contact": "CONTACT",
+    "map": "MAP",
+    "socialMedia": "SOCIAL MEDIA",
+    "home": "Home",
+    "products": "Products",
+    "contactLink": "Contact",
+    "about": "About us",
+    "socialLinks": {
+      "facebook": "Facebook",
+      "youtube": "Youtube",
+      "tiktok": "Tiktok"
+    },
+    "copyright": "Copyright 2025 ..."
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Product Categories",
+    "search": "Search"
+  },
+  "about": {
+    "title": "About Us",
+    "introduction": {
+      "title": "About Wizus Food",
+      "paragraph1": "Wizus Food is a company specializing in providing pangasius, freshwater fish, various types of frozen Fish Pastes, and high-quality agricultural products. With many years of experience in the seafood industry, we are committed to bringing customers fresh, safe, and nutritious products.",
+      "paragraph2": "Our company operates with the mission of providing high-quality food products, meeting the diverse needs of domestic and international markets. We are proud to be a trusted partner of many major distributors and retail chains."
+    },
+    "vision": {
+      "title": "Vision",
+      "content": "To become a leading supplier in the field of seafood and agricultural products, trusted and chosen by customers for excellent product quality and service."
+    },
+    "mission": {
+      "title": "Mission",
+      "content": "To provide high-quality, safe and nutritious food products, while building sustainable relationships with customers and partners."
+    },
+    "ourProducts": {
+      "title": "Our Products",
+      "freshwaterFish": {
+        "title": "Freshwater Fish",
+        "description": "Carp, tilapia, red snapper and other freshwater fish varieties"
+      },
+      "catfish": {
+        "title": "Pangasius",
+        "description": "High-quality frozen pangasius fillets"
+      },
+      "fishCake": {
+        "title": "Fish Paste",
+        "description": "Various types of frozen Fish Pastes"
+      },
+      "agricultural": {
+        "title": "Agricultural Products",
+        "description": "Quality agricultural products"
+      }
+    },
+    "qualityCommitment": {
+      "title": "Quality Commitment",
+      "highQuality": {
+        "title": "High Quality",
+        "description": "All products undergo strict quality control"
+      },
+      "coldStorage": {
+        "title": "Cold Storage",
+        "description": "Modern cold storage system ensuring freshness"
+      },
+      "fastDelivery": {
+        "title": "Fast Delivery",
+        "description": "Quick and reliable delivery service"
+      }
+    },
+    "contactCta": {
+      "title": "Contact Us",
+      "description": "Contact Wizus Food for consultation and ordering the highest quality products"
+    }
+  },
+  "contactPage": {
+    "title": "Contact",
+    "description": "Contact us for consultation and product ordering",
+    "companyInfo": {
+      "title": "Company Information",
+      "address": "Address:",
+      "phone": "Phone:",
+      "email": "Email:",
+      "website": "Website:",
+      "businessHours": "Business Hours:"
+    },
+    "businessHours": {
+      "weekdays": "Monday - Friday: 8:00 AM - 5:00 PM",
+      "weekend": "Saturday: 8:00 AM - 12:00 PM"
+    },
+    "mapTitle": "Our Location"
+  },
+  "productsPage": {
+    "subcategories": "Subcategories"
+  },
+  "categoryPage": {
+    "metaDescription": "Products in category",
+    "noProducts": "No products found in this category"
+  },
+  "productDetail": {
+    "contactToOrder": "Contact to Order",
+    "contactDescription": "Please contact us for more detailed information about the product and to place an order."
+  },
+  "search": {
+    "title": "Search Products",
+    "description": "Search and filter products by category",
+    "searchLabel": "Search Products",
+    "searchPlaceholder": "Enter product name...",
+    "categoryFilter": "Category",
+    "subcategoryFilter": "Subcategory",
+    "allCategories": "All Categories",
+    "allSubcategories": "All Subcategories",
+    "searchButton": "Search",
+    "clearFilters": "Clear Filters",
+    "activeFilters": "Active Filters",
+    "searchTerm": "Search Term",
+    "category": "Category",
+    "subcategory": "Subcategory",
+    "results": "Search Results",
+    "noResults": "No products found",
+    "noResultsDescription": "Try changing your search terms or filters to see more products",
+    "viewAllProducts": "View All Products"
+  },
+  "aquaculture": {
+    "categories": {
+      "freshwaterFish": "Freshwater Fish",
+      "catfish": "Pangasius",
+      "fishCake": "Fish Paste",
+      "byProducts": "By-Products",
+      "agricultural": "Agricultural Products"
+    },
+    "products": {
+      "pangasiusFillet": "Pangasius Fillet",
+      "pangasiusFilletWithRedMeat": "Pangasius Fillet with Red Meat (Russian Market)",
+      "pangasiusSkin": "Pangasius Skin",
+      "frozenPangasius": "Frozen Pangasius",
+      "basafishCut": "Basafish Cut Portions",
+      "basafishWhole": "Whole Basafish",
+      "basafishStomach": "Basafish Stomach",
+      "basafishFillet": "Basafish Fillet",
+      "tilapiaFillet": "Tilapia Fillet",
+      "redSnapperFillet": "Red Snapper Fillet",
+      "carpWhole": "Whole Carp",
+      "freshFishCake": "Fresh Fish Paste",
+      "grilledFishCake": "Grilled Fish Paste",
+      "steamedFishCake": "Steamed Fish Paste",
+      "driedPangasiusSkin": "Dried Pangasius Skin",
+      "driedPangasiusBones": "Dried Pangasius Bones",
+      "pangasiusFat": "Pangasius Fat",
+      "jasmineRice": "Jasmine Rice",
+      "stickyRice": "Sticky Rice",
+      "riceFlour": "Rice Flour",
+      "wheatFlour": "Wheat Flour"
+    },
+    "descriptions": {
+      "freshFillet": "Fresh, tender fillet with white, sweet meat, few bones, suitable for frying and grilling",
+      "exportQuality": "High-quality export-grade product",
+      "driedSkin": "Dried skin rich in collagen, beneficial for skin and health",
+      "iqfFrozen": "IQF (Individual Quick Frozen) product, high quality, suitable for export",
+      "cutPortions": "Fresh cut portions, convenient for processing, suitable for grilling and frying",
+      "wholeFish": "Fresh whole fish, raised in clean environment, quality guaranteed",
+      "driedStomach": "Dried stomach rich in nutrients, suitable for soup and nutritious dishes",
+      "freshTilapia": "Fresh tilapia with white, sweet meat, few bones, suitable for frying and grilling",
+      "freshRedSnapper": "Fresh red snapper with white, sweet meat, suitable for grilling and steaming",
+      "freshCarp": "Fresh carp with firm meat, suitable for grilling and sour soup",
+      "traditionalFishCake": "Fish Paste made from pangasius, fragrant and rich in traditional flavor",
+      "grilledFishCake": "Grilled Fish Paste, golden brown, suitable to eat with bread and rice",
+      "steamedFishCake": "Soft steamed Fish Paste, preserving natural fish flavor",
+      "driedSkinCollagen": "Dried skin rich in collagen, good for skin and health",
+      "driedBones": "Dried bones rich in calcium, suitable for soup and pet food",
+      "refinedFat": "Refined fat rich in omega-3, suitable for food processing",
+      "fragrantRice": "Fragrant and sticky rice, high quality, suitable for export",
+      "stickyRice": "Fragrant sticky rice, suitable for cakes and sticky rice",
+      "pureRiceFlour": "Pure rice flour, no preservatives, suitable for baking",
+      "allPurposeFlour": "All-purpose flour, high quality, suitable for bread and pastries"
+    }
+  }
+}
