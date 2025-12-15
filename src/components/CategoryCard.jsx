@@ -21,7 +21,7 @@ const CategoryCard = ({ category, productCount = 0 }) => {
   return (
     <Link 
       to={targetHref}
-      className="block w-full relative overflow-hidden rounded-xl shadow-md hover:shadow-2xl transition-all duration-500 group aspect-[16/9] bg-white max-w-[560px] mx-auto"
+      className="block w-full relative overflow-hidden rounded-xl shadow-md hover:shadow-2xl transition-all duration-500 group aspect-[16/9] bg-sky-50 max-w-[560px] mx-auto border border-sky-100"
     >
       <img
         src={category.image || '/images/placeholder-category.jpg'}
@@ -33,11 +33,11 @@ const CategoryCard = ({ category, productCount = 0 }) => {
         }}
       />
       
-      {/* Overlay gradient */}
-      <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+      {/* Overlay gradient tuned to ocean tone instead of pure black */}
+      <div className="absolute inset-0 bg-gradient-to-t from-sky-950/90 via-sky-900/40 to-transparent opacity-70 group-hover:opacity-100 transition-opacity duration-300"></div>
       
       {/* Content overlay */}
-      <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent p-3 sm:p-4 md:p-5">
+      <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-sky-950 via-sky-900/90 to-transparent p-3 sm:p-4 md:p-5">
         <h3 className="text-white font-bold text-base sm:text-lg md:text-xl lg:text-xl mb-2 leading-tight">
           {getCategoryName()}
         </h3>

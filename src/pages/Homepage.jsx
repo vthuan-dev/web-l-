@@ -6,7 +6,7 @@ import CategoryCard from '../components/CategoryCard';
 import SEO from '../components/SEO';
 
 const Homepage = () => {
-  const { t } = useLanguage();
+  const { t, language } = useLanguage();
   const [categories, setCategories] = useState([]);
   const [loading, setLoading] = useState(true);
 
@@ -69,22 +69,32 @@ const Homepage = () => {
         {/* Hero Section spacer removed to bring banner close to header */}
         <div className="h-2 lg:h-3"></div>
         
-        {/* Hero Banner - Show full image without cropping */}
-<div className="w-full relative overflow-hidden mb-8 lg:mb-16">
-    <img
-        src="/images/banner.png"
-        alt={t('hero.companyName')}
-        className="block w-full h-auto object-contain brightness-110"
-        loading="lazy"
-    />
-        <div className="absolute inset-0 bg-black/10 flex items-center justify-center">
-            <div className="text-center px-4 relative z-10">
-                <h1 className="text-white text-2xl md:text-4xl lg:text-5xl font-bold mb-4 bg-black/20 px-4 py-2 md:px-8 md:py-4 rounded-lg">
-                    {t('hero.companyName')}
-                </h1>
+        {/* Hero Banner - tuned for stronger seafood branding */}
+        <div className="w-full relative overflow-hidden mb-8 lg:mb-16 bg-gradient-to-b from-sky-50 to-white">
+          <img
+            src="/images/banner.png"
+            alt={t('hero.companyName')}
+            className="block w-full h-auto object-cover md:object-contain brightness-110"
+            loading="lazy"
+          />
+
+          {/* Overlay with subtle ocean-tone gradient */}
+          <div className="absolute inset-0 bg-gradient-to-r from-sky-900/70 via-sky-900/40 to-transparent flex items-center justify-center">
+            <div className="text-center px-4 relative z-10 space-y-3 md:space-y-4">
+              <span className="inline-flex items-center rounded-full bg-white/15 border border-sky-200/60 px-4 py-1 text-xs md:text-sm font-semibold tracking-wide text-sky-50 backdrop-blur-md">
+                {language === 'vi'
+                  ? 'Pangasius & Thủy sản nước ngọt xuất khẩu'
+                  : 'Pangasius & Freshwater Seafood Exporter'}
+              </span>
+              <h1 className="text-white text-2xl md:text-4xl lg:text-5xl font-bold mb-1 md:mb-2 drop-shadow-lg">
+                {t('hero.companyName')}
+              </h1>
+              <p className="max-w-2xl mx-auto text-sky-100 text-sm md:text-base lg:text-lg leading-relaxed font-medium drop-shadow">
+                {t('hero.description')}
+              </p>
             </div>
-</div>
-</div>
+          </div>
+        </div>
 
         {/* Action Buttons */}
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 mb-8 lg:mb-16">
@@ -115,19 +125,19 @@ const Homepage = () => {
         </div>
 
         {/* Company Branding Section */}
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 mb-12 lg:mb-20">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 mb-10 lg:mb-16">
           <div className="text-center">
             {/* Company Name with gradient */}
-            <h2 className="text-2xl sm:text-3xl md:text-5xl lg:text-6xl font-bold mb-6 sm:mb-8 bg-gradient-to-r from-primary via-blue-600 to-primary bg-clip-text text-transparent">
+            <h2 className="text-xl sm:text-2xl md:text-4xl lg:text-5xl font-bold mb-4 sm:mb-6 bg-gradient-to-r from-primary via-blue-600 to-primary bg-clip-text text-transparent">
               {t('hero.companyName')}
             </h2>
             
             {/* Decorative elements */}
-            <div className="flex items-center justify-center mb-6 sm:mb-8">
+            <div className="flex items-center justify-center mb-4 sm:mb-6">
               <div className="hidden sm:block w-12 sm:w-16 lg:w-24 h-1 bg-gradient-to-r from-transparent to-primary rounded-full"></div>
               <div className="mx-3 sm:mx-4 lg:mx-8">
-                <div className="bg-gradient-to-r from-primary to-blue-600 rounded-2xl px-6 sm:px-8 py-3 sm:py-4 lg:px-12 lg:py-6 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
-                  <span className="text-white font-bold text-lg sm:text-xl md:text-2xl lg:text-3xl tracking-wide">WIZUS FOOD</span>
+                <div className="bg-gradient-to-r from-primary to-blue-600 rounded-2xl px-5 sm:px-6 py-2.5 sm:py-3.5 lg:px-10 lg:py-4 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+                  <span className="text-white font-bold text-base sm:text-lg md:text-xl lg:text-2xl tracking-wide">WIZUS FOOD</span>
                 </div>
               </div>
               <div className="hidden sm:block w-12 sm:w-16 lg:w-24 h-1 bg-gradient-to-l from-transparent to-primary rounded-full"></div>
@@ -135,7 +145,7 @@ const Homepage = () => {
             
             {/* Company Description with better styling */}
             <div className="max-w-4xl mx-auto px-2">
-              <p className="text-gray-700 text-base sm:text-lg md:text-xl lg:text-2xl leading-relaxed font-medium">
+              <p className="text-gray-700 text-sm sm:text-base md:text-lg lg:text-xl leading-relaxed font-medium">
                 {t('hero.description')}
               </p>
             </div>
