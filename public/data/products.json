@@ -9,7 +9,7 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000001",
         "images": [
-            "/images/categories/ca_ro_phi_nguyen_con_dong_lanh.png",
+            "https://phatthinhphatfoods.com/wp-content/uploads/2025/09/Ca-ro-phi-Dong-Lanh.jpg",
             "/images/categories/ca_ro_phi_nguyen_con_dong_lanh2.png",
             "/images/categories/ca_ro_phi_nguyen_con_dong_lanh3.png"
         ]
@@ -39,9 +39,9 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000002",
         "images": [
-            "/images/categories/ca_ro_lam_sach.png",
-            "/images/categories/ca_ro_lam_sach2.png",
-            "/images/categories/ca_ro_lam_sach3.png"
+            "https://dacsanmientay.vn/wp-content/uploads/2021/10/ro6.jpg",
+            "https://bizweb.dktcdn.net/thumb/1024x1024/100/485/487/products/vn-11134207-7r98o-lnsi2e5gekfhb6-1699354316040.jpg?v=1752486523390",
+            "https://vn.fisheryfood.com/Content/uploads/2021674149/20210821100700373ea2601a0c4f45ae617efb9f703446.jpg"
         ]
     },
     {
@@ -93,7 +93,7 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000010",
         "images": [
-            "/images/categories/ca_chim_dong_lanh.png"
+            "https://saithanhfoods.vn/wp-content/uploads/2019/08/ca_chim_den_nuoc_ngot.jpg"
         ]
     },
     {
@@ -408,7 +408,7 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000015",
         "images": [
-            "/images/categories/thit_oc_dong_lanh.png"
+            "https://freshfoodglobal.com/wp-content/uploads/2019/12/Thit-oc-buou-2.jpg"
         ]
     },
     {
@@ -421,9 +421,9 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000003",
         "images": [
-            "/images/categories/ca_dieu_hong_nguyen_con.png",
-            "/images/categories/ca_dieu_hong2.png",
-            "/images/categories/ca_dieu_hong3.png"
+            "https://upload.wikimedia.org/wikipedia/commons/3/39/Pla_thapthim.jpg",
+            "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/ca_dieu_hong_1_98b8b31cbe.jpg",
+            "https://cdn.tgdd.vn/Products/Images/8782/271113/bhx/ca-dieu-hong-tui-1-con-202202171855255282.jpg"
         ]
     },
     {
@@ -438,7 +438,7 @@
         "images": [
             "/images/categories/thit_ech_dong_lanh.png",
             "/images/categories/ech.jpg",
-            "/images/categories/ech2.jpg"
+            "https://beptruong.edu.vn/wp-content/uploads/2020/07/thit-ech-sau-khi-so-che.jpg"
         ]
     },
     {
@@ -451,8 +451,8 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000005",
         "images": [
-            "/images/categories/tep_dong_lanh.png",
-            "/images/categories/tep.jpg",
+            "https://tepbac.com/upload/species/ge_image/2022/03/tep-riu-3_1647242950..jpg",
+            "https://dacsanmientay.vn/wp-content/uploads/2021/10/t1.png",
             "/images/categories/tep2.jpg"
         ]
     },
@@ -466,7 +466,8 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000006",
         "images": [
-            "/images/categories/ca_keo_dong_lanh.png"
+            "https://cdn.24h.com.vn/upload/1-2023/images/2023-02-13/Loai-ca-dac-san-mien-Tay-tang-gia-chong-mat-dan-nuoi-tiec-hui-hui-328942732_490538949920682_4879388764430384162_n-1676265761-753-width1080height810.jpg",
+            "https://www.lottemart.vn/media/catalog/product/cache/0x0/2/2/2275430000007.jpg.webp"
         ]
     }
 ]

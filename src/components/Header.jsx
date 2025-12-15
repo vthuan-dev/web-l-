@@ -10,7 +10,7 @@ const Header = () => {
     <header className="bg-white/95 backdrop-blur-md supports-[backdrop-filter]:bg-white/90 sticky top-0 z-50 border-b border-gray-200 shadow-sm">
       <div className="container mx-auto max-w-screen-xl px-4 lg:px-8">
         {/* Desktop Header */}
-        <div className="hidden lg:flex items-center justify-between py-4">
+        <div className="hidden lg:flex items-center justify-between py-3">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0">
             <img
@@ -32,28 +32,28 @@ const Header = () => {
               to="/" 
               className="text-gray-700 text-base xl:text-lg font-semibold hover:text-primary transition-colors duration-300 relative group"
             >
-              {t('nav.home').toUpperCase()}
+              {t('nav.home')}
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full"></span>
             </Link>
             <Link 
               to="/products" 
               className="text-gray-700 text-base xl:text-lg font-semibold hover:text-primary transition-colors duration-300 relative group"
             >
-              {t('nav.products').toUpperCase()}
+              {t('nav.products')}
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full"></span>
             </Link>
             <Link 
               to="/contact" 
               className="text-gray-700 text-base xl:text-lg font-semibold hover:text-primary transition-colors duration-300 relative group"
             >
-              {t('nav.contact').toUpperCase()}
+              {t('nav.contact')}
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full"></span>
             </Link>
             <Link 
               to="/about" 
               className="text-gray-700 text-base xl:text-lg font-semibold hover:text-primary transition-colors duration-300 relative group"
             >
-              {t('nav.about').toUpperCase()}
+              {t('nav.about')}
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-primary transition-all duration-300 group-hover:w-full"></span>
             </Link>
           </nav>
