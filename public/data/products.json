@@ -130,9 +130,9 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000012",
         "images": [
-            "https://kimmyfarm.com/wp-content/uploads/2020/12/ca-tra-dong-lanh-nguyen-con.jpg",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiSRsWYl0RjLYpYUDnQc8RIMO2etO8BaLG_g&s",
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmXixx-qJ83Zx0Wq1sDLPBDm3GxMdbBhjCDA&s"
+            "/images/categories/ca_tre2.jpg",
+            "https://namdac.vn/wp-content/uploads/2021/09/ca-tre-giong-cao-lanh-namdac.jpg",
+            "/images/categories/ca_tre1.jpg"
         ]
     },
     {
@@ -248,7 +248,7 @@
             "https://motortrip.vn/wp-content/uploads/2021/12/cha-ca-thac-lac-8.jpg",
             "https://saithanhfoods.vn/wp-content/uploads/2019/05/cha-ca-that-lat-2.jpg",
             "https://i0.wp.com/onggiau.com.vn/wp-content/uploads/2025/04/cha-ca-that-lat-tuoi-2.jpg",
-            "https://choviet93.fr/wp-content/uploads/2023/12/cha-ca-that-lat.jpg"
+            "https://tse3.mm.bing.net/th/id/OIP.mQCUH9NxsizE4MMtdrMVxQHaGL?pid=Api&P=0&h=180"
         ]
     },
     {
@@ -274,7 +274,7 @@
         "categoryId": "000000-000000-00000-00000-000000000002",
         "subCategoryId": "000000-000000-00000-00001-000000000016",
         "images": [
-            "https://happyfood.vn/wp-content/uploads/2023/05/vfdvasrgh.png",
+            "https://cdn.tgdd.vn/2021/06/CookProduct/t-1200x676-2.jpg",
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSorm69a5gIE79qW7E8g7NHXFsPxUlD4h45rg&s"
         ]
     },
@@ -417,7 +417,7 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000014",
         "images": [
-            "https://cdn.tgdd.vn/2021/03/content/Phi-le-la-gi-nhung-thuc-pham-phi-le-thong-dung-nhat-3-800x457.jpg"
+            "/images/categories/ca_me_hoa_phi_le.jpg"
         ]
     },
     {
@@ -431,7 +431,7 @@
         "subCategoryId": "000000-000000-00000-00001-000000000015",
         "images": [
             "https://freshfoodglobal.com/wp-content/uploads/2019/12/Thit-oc-buou-2.jpg",
-            "https://i-raovat.vnecdn.net/2022/01/06/46df298c_1641453560.jpg?w=600&h=400&q=100&dpr=1&rt=fit&g=no&wmi=&wmg=ce&wmo=50&wms=30&wmx=0&wmy=0&s=D_fAB2bwEiJvHgO5HqugnQ",
+            "https://nhahangmonhue.vn/wp-content/uploads/2023/08/oc-buou-2.jpg",
             "https://freshfoodglobal.com/wp-content/uploads/2019/12/thit-oc-buou-.jpg"
         ]
     },
@@ -445,9 +445,9 @@
         "categoryId": "000000-000000-00000-00000-000000000000",
         "subCategoryId": "000000-000000-00000-00001-000000000003",
         "images": [
-            "https://upload.wikimedia.org/wikipedia/commons/3/39/Pla_thapthim.jpg",
-            "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/ca_dieu_hong_1_98b8b31cbe.jpg",
-            "https://cdn.tgdd.vn/Products/Images/8782/271113/bhx/ca-dieu-hong-tui-1-con-202202171855255282.jpg"
+            "https://hacaseafood.com/assets/uploads/images/post/ca-dieu-hong-nguyen-con_31122016103349.jpg",
+            "https://suckhoedoisong.qltns.mediacdn.vn/Images/thanhloan/2017/02/01/cach-nau-canh-chua-ca-dieu-hong-1.JPG",
+            "/images/categories/ca_dieu_hong3.png"
         ]
     },
     {
@@ -462,7 +462,7 @@
         "images": [
             "/images/categories/thit_ech_dong_lanh.png",
             "/images/categories/ech.jpg",
-            "https://beptruong.edu.vn/wp-content/uploads/2020/07/thit-ech-sau-khi-so-che.jpg"
+            "https://static.tuoitre.vn/tto/i/s626/2016/08/01/ech-dong-dem-mua-2-jpg-1470045063.jpg"
         ]
     },
     {
