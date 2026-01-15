@@ -12,15 +12,9 @@ const CategoryCard = ({ category, productCount = 0 }) => {
     return category.name;
   };
 
-  const targetHref = (() => {
-    // If sub-category Cá Basa, go straight to main variant detail
-    if (category?.slug === 'ca-basa') return '/product/ca-basa-nguyen-con';
-    return `/category/${category.slug}`;
-  })();
-
   return (
     <Link 
-      to={targetHref}
+      to={`/category/${category.slug}`}
       className="block w-full relative overflow-hidden rounded-xl shadow-md hover:shadow-2xl transition-all duration-500 group aspect-[16/9] bg-sky-50 max-w-[560px] mx-auto border border-sky-100"
     >
       <img

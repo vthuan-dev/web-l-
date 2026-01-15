@@ -136,6 +136,22 @@
         ]
     },
     {
+        "id": "000000-000000-00001-00000-000000000050",
+        "name": {
+            "vi": "Cá Basa",
+            "en": "Basa fish"
+        },
+        "slug": "ca-basa",
+        "categoryId": "000000-000000-00000-00000-000000000001",
+        "images": [
+            "https://hacaseafood.com/assets/uploads/myfiles/images/products/ca-tra-phi-le-trang2.jpg"
+        ],
+        "description": {
+            "vi": "Các sản phẩm cá basa đông lạnh: phi lê, nguyên con, cắt khúc.",
+            "en": "Frozen basa products: fillet, whole fish, steak."
+        }
+    },
+    {
         "id": "000000-000000-00001-00000-000000000009",
         "name": {
             "vi": "Cá tra phi lê nga còn thịt đỏ",
@@ -186,27 +202,27 @@
         },
         "slug": "ca-tra-phi-le",
         "categoryId": "000000-000000-00000-00000-000000000001",
-        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "subCategoryId": "000000-000000-00000-00001-000000000017",
         "images": [
             "/images/categories/ca_basa_phi_le.png",
-            "/images/categories/ca_basa_nguyen_con_dong_lanh.png",
-            "/images/categories/ca_basa_cat_khuc.png",
-            "/images/categories/ca_basa.png",
-            "/images/categories/ca_basa_phi_le2.png"
+            "https://clfish.com/wp-content/uploads/2019/11/ca-tra-phi-le-thit-do.jpg",
+            "https://i.ytimg.com/vi/UVenWFA2Daw/maxresdefault.jpg",
+            "https://hacaseafood.com/assets/uploads/myfiles/images/products/ca-tra-phi-le-trang1.jpg",
+            "https://hacaseafood.com/assets/uploads/myfiles/images/products/ca-tra-phi-le-trang2.jpg"
         ]
     },
     {
-        "id": "000000-000000-00001-00000-000000000011",
+        "id": "000000-000000-00001-00000-000000000051",
         "name": {
-            "vi": "Cá tra nguyên con đông lạnh",
-            "en": "Frozen pangasius fish"
+            "vi": "Cá basa nguyên con đông lạnh",
+            "en": "Frozen basa whole fish"
         },
-        "slug": "ca-tra-nguyen-con-dong-lanh",
+        "slug": "ca-basa-nguyen-con",
         "categoryId": "000000-000000-00000-00000-000000000001",
-        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "subCategoryId": "000000-000000-00000-00001-000000000017",
         "images": [
-            "/images/categories/ca_basa_nguyen_con_dong_lanh.png",
-            "/images/categories/ca_basa_nguyen_con_dong_lanh2.png"
+            "https://static.fireant.vn/Upload/20240927/images/ca_tra_esit.jpg",
+            "https://clfish.com/wp-content/uploads/2019/11/ca-tra-trang-dong-lanh.jpg"
         ]
     },
     {
@@ -217,10 +233,10 @@
         },
         "slug": "ca-tra-cat-khuc",
         "categoryId": "000000-000000-00000-00000-000000000001",
-        "subCategoryId": "000000-000000-00000-00001-000000000016",
+        "subCategoryId": "000000-000000-00000-00001-000000000017",
         "images": [
-            "/images/categories/ca_basa_cat_khuc.png",
-            "/images/categories/ca_basa_cat_khuc2.png"
+            "https://fintechx.vn/public/upload/product/2823102.jpg",
+            "https://anvita.sgp1.cdn.digitaloceanspaces.com/ubofood/images/ca-tra-cat-khuc-500gr-14390330307_1000_750_299c5004-a6fa-4659-a809-8a05485a16f2.JPEG"
         ]
     },
     {

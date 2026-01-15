@@ -59,8 +59,9 @@ const ProductDetailPage = () => {
             }
           } else {
             // Fallback for generic entries
-            // 1) Cá Basa: infer using known variant and group by its subCategoryId
-            const basaWhole = productsData.find(p => p.slug === 'ca-basa-nguyen-con' && p.subCategoryId);
+            // 1) Cá Basa: group all basa variants by shared subCategoryId
+            const basaSubCategoryId = '000000-000000-00000-00001-000000000017';
+            const basaWhole = productsData.find(p => p.subCategoryId === basaSubCategoryId);
             if (foundProduct.slug === 'ca-basa' && basaWhole?.subCategoryId) {
               const siblings = productsData.filter(p => p.subCategoryId === basaWhole.subCategoryId);
               
