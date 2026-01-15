@@ -153,7 +153,15 @@ const CategoryPage = () => {
         {/* If sub-categories exist (for main category), render them */}
         {subCategoriesForCategory.length > 0 ? (
           <div className="mb-8">
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 sm:gap-8 lg:gap-10">
+            <div
+              className={`grid gap-6 sm:gap-8 lg:gap-10 ${
+                // For Cá tra, limit to max 2 columns so Cá Tra + Cá Basa chiếm đều chiều ngang,
+                // tránh cảm giác có quá nhiều khoảng trắng trống.
+                category.slug === 'ca-tra'
+                  ? 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 max-w-4xl mx-auto'
+                  : 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4'
+              }`}
+            >
               {subCategoriesForCategory.map((sub) => (
                 <div key={sub.id} className="w-full max-w-sm mx-auto lg:max-w-none transform hover:scale-105 transition-transform duration-300">
                   <CategoryCard category={sub} productCount={0} />

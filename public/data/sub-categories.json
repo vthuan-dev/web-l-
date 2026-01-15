@@ -158,5 +158,15 @@
         "slug": "phan-ca-tra",
         "image": "/images/categories/ca-tra.jpg",
         "categoryId": "000000-000000-00000-00000-000000000001"
+    },
+    {
+        "id": "000000-000000-00000-00001-000000000017",
+        "name": {
+            "vi": "Cá Basa",
+            "en": "Basa fish"
+        },
+        "slug": "ca-basa",
+        "image": "/images/categories/ca_basa.png",
+        "categoryId": "000000-000000-00000-00000-000000000001"
     }
 ]
