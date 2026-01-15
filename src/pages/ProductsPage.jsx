@@ -44,19 +44,19 @@ const ProductsPage = () => {
 
   return (
     <div className="flex flex-col bg-white min-h-screen">
-      <div className="container mx-auto px-4 lg:px-8 py-6">
+      <div className="container mx-auto px-4 lg:px-8 py-4">
         {/* Breadcrumb */}
         <Breadcrumb />
 
         {/* Page Title */}
-        <h1 className="text-black text-2xl md:text-3xl lg:text-4xl font-bold mb-8 lg:mb-12 text-center lg:text-left">
+        <h1 className="text-black text-2xl md:text-3xl lg:text-4xl font-bold mb-4 lg:mb-6 text-center lg:text-left">
           {t('products.categories')}
         </h1>
 
         {/* Categories Grid */}
-        <div className="mb-12 lg:mb-16">
+        <div className="mb-6 lg:mb-8">
           {/* Main Categories */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 sm:gap-8 lg:gap-10 mb-12 lg:mb-16">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4 sm:gap-5 lg:gap-6">
             {categories.map((category) => (
               <div key={category.id} className="w-full max-w-sm mx-auto lg:max-w-none transform hover:scale-105 transition-transform duration-300">
                 <CategoryCard 
