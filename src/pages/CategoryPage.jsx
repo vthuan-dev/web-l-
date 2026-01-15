@@ -137,7 +137,7 @@ const CategoryPage = () => {
   ];
 
   return (
-    <div className="flex flex-col bg-white min-h-screen">
+    <div className="flex flex-col bg-white">
       <div className="container mx-auto px-4 lg:px-8 py-6">
         {/* Breadcrumb */}
         <Breadcrumb customItems={breadcrumbs} />
