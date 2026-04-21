@@ -4,7 +4,6 @@
     "address": "112/12, 112 Trần Phú, phường Cái Khế, thành phố Cần Thơ, Việt Nam",
     "phone": "+84 987055245",
     "phone2": "+81 9091937887",
-    "phone3": "+84 909 416396",
     "phoneContacts": [
       {
         "phone": "+84 987055245",
@@ -13,10 +12,6 @@
       {
         "phone": "+81 9091937887",
         "name": "Mr Katoh"
-      },
-      {
-        "phone": "+84 909 416396",
-        "name": "Ms San San"
       }
     ],
     "email": "exportseafood1986@gmail.com",
