@@ -7,7 +7,6 @@ import CategoryCard from '../components/CategoryCard';
 const ProductsPage = () => {
   const { t } = useLanguage();
   const [categories, setCategories] = useState([]);
-  const [subCategories, setSubCategories] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -15,7 +14,6 @@ const ProductsPage = () => {
       try {
         const categoriesData = await loadData('categories.json');
         setCategories(categoriesData);
-        setSubCategories([]);
       } catch (error) {
         console.error('Error loading products data:', error);
       } finally {
