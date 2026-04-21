@@ -86,8 +86,6 @@ const CategoryPage = () => {
             }
           }
           
-          console.log('Sub-categories count:', subCategoriesForCategory.length);
-          console.log('Products count:', products.length);
         }
       } catch (error) {
         console.error('Error loading category data:', error);
